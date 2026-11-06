@@ -1,0 +1,11 @@
+{
+  "include": [
+    "windows-app"
+  ],
+  "extraPaths": [
+    "windows-app",
+    "C:/Users/docto/miniconda3/Lib/site-packages"
+  ],
+  "reportMissingImports": "none",
+  "reportAttributeAccessIssue": "none"
+}

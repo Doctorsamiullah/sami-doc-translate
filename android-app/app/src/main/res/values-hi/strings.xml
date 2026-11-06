@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">डॉकट्रांसलेट</string>
+    <string name="subtitle">अंग्रेज़ी ↔ हिन्दी दस्तावेज़ अनुवादक</string>
+    <string name="tab_translate">अनुवाद</string>
+    <string name="tab_convert">प्रारूप बदलें</string>
+    <string name="tab_compress">फ़ाइल संपीड़ित करें</string>
+    <string name="tab_history">इतिहास</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="btn_swap">बदलें</string>
+    <string name="pick_document">दस्तावेज़ चुनें (.docx, .pdf, .txt)</string>
+    <string name="start_translation">दस्तावेज़ का अनुवाद करें</string>
+    <string name="compress_btn">फ़ाइल संपीड़ित करें</string>
+    <string name="target_size">लक्षित आकार (MB):</string>
+    <string name="preserve_readability">पाठ की स्पष्टता सुरक्षित रखें (150 DPI)</string>
+    <string name="tts_play">हिन्दी में सुनें</string>
+</resources>
+

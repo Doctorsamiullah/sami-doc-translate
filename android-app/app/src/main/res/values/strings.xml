@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DocTranslate</string>
+    <string name="subtitle">English ↔ Hindi Document Suite</string>
+    <string name="tab_translate">Translate</string>
+    <string name="tab_convert">Convert</string>
+    <string name="tab_compress">Compress</string>
+    <string name="tab_history">History</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="btn_swap">Swap</string>
+    <string name="pick_document">Pick Document (.docx, .pdf, .txt)</string>
+    <string name="start_translation">Translate Document</string>
+    <string name="compress_btn">Compress File</string>
+    <string name="target_size">Target Size (MB):</string>
+    <string name="preserve_readability">Preserve Text Readability (150 DPI floor)</string>
+    <string name="tts_play">Listen in Hindi</string>
+</resources>
+
